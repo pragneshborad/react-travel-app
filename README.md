@@ -1,4 +1,4 @@
-## Headout Clone by ~ lastnamearya
+## Headout Clone by ~ pragnesh
 Currently main route(home) and New York route is active.
 
 
